@@ -1,0 +1,48 @@
+1616158194674	geckodriver	INFO	Listening on 127.0.0.1:60633
+1616158197912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofile7dN4so"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616158205432	Marionette	INFO	Listening on port 60641
+1616158205924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616158225958	Marionette	INFO	Stopped listening on port 60641
+1616158666065	geckodriver	INFO	Listening on 127.0.0.1:60929
+1616158669210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofilefa3x2T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616158678655	Marionette	INFO	Listening on port 60939
+1616158678828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616158691736	Marionette	INFO	Stopped listening on port 60939
+1616159346998	geckodriver	INFO	Listening on 127.0.0.1:61323
+1616159350155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofileQMu6Xx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616159356347	Marionette	INFO	Listening on port 61331
+1616159356540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616159419656	Marionette	INFO	Stopped listening on port 61331
+1616159680704	geckodriver	INFO	Listening on 127.0.0.1:61585
+1616159683844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofilelEz8nb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616159694795	Marionette	INFO	Listening on port 61594
+1616159695170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616159760699	Marionette	INFO	Stopped listening on port 61594
+1616160139399	geckodriver	INFO	Listening on 127.0.0.1:61842
+1616160142547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofilesfarCH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616160151952	Marionette	INFO	Listening on port 61850
+1616160152146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616160222458	Marionette	INFO	Stopped listening on port 61850
+1616160481645	geckodriver	INFO	Listening on 127.0.0.1:62165
+1616160484790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofile1tI5zv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616160492973	Marionette	INFO	Listening on port 62173
+1616160493329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616160563358	Marionette	INFO	Stopped listening on port 62173
+1633730710485	geckodriver	INFO	Listening on 127.0.0.1:56929
+1633730713507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KEREMZ~1\\AppData\\Local\\Temp\\rust_mozprofile9B6jFJ"
+1633730714586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kerem \xD6zdemir\\AppData\\Local\\Temp\\rust_mozprofile9B6jFJ\\search.json.mozlz4", (void 0)))
+1633730718633	Marionette	INFO	Listening on port 60931
+1633730719284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633730726394	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1633730739931	Marionette	INFO	Stopped listening on port 60931
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
